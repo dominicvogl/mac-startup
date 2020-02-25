@@ -1,10 +1,20 @@
 # Install a brand new mac
 
+inspired by: [Guide from Tania Rasica](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
 
 ## Homebrew
 ### Install Homebrew
 
 * [Find Homebrew Formulars](https://formulae.brew.sh/cask/)
+
+Install Applications via Script
+
+```. brew.sh```
+
+These Applications I install via Mac App Store or Browser
+
+* [JPEGMini](https://www.jpegmini.com/)
+* [JPEGMini](https://www.jpegmini.com/)
 
 ### Install [Oh my Zsh](https://ohmyz.sh/) for Terminal
 
@@ -24,3 +34,13 @@ Install the latest version.
 Restart terminal and run the final command.
 
 ```nvm use node```
+
+Confirm that you are using the latest version of Node and npm.
+```
+node -v
+npm -v
+```
+
+### Update
+
+```nvm install node --reinstall-packages-from=node```

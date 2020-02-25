@@ -15,8 +15,14 @@ brew cask install \
   adobe-creative-cloud \
   spotify \
   alfred \
+  istat-menus \
+  pages \
+  numbers \
+  keynote \
   transmit \
   mamp \
+  rightfont \
   evernote \
   telegram \
+  slack \
   thunderbird
