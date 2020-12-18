@@ -14,7 +14,6 @@ Install Applications via Script
 These Applications I install via Mac App Store or Browser
 
 * [JPEGMini](https://www.jpegmini.com/)
-* [JPEGMini](https://www.jpegmini.com/)
 
 ### Install [Oh my Zsh](https://ohmyz.sh/) for Terminal
 

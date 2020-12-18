@@ -3,6 +3,8 @@ brew install \
   git \
   yarn \
   nvm \
+  npm \
+  node
 
 # Cask
 brew cask install \
@@ -16,13 +18,10 @@ brew cask install \
   spotify \
   alfred \
   istat-menus \
-  pages \
-  numbers \
-  keynote \
   transmit \
   mamp \
+  notion \
   rightfont \
   evernote \
   telegram \
-  slack \
-  thunderbird
+  slack
