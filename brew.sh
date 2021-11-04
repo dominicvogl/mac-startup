@@ -47,10 +47,3 @@ brew cask install \
   cleanmymac \
   discord \
   
-  # Not available via homebrew
-  # capture one \
-  # day one \
-  # jpeg mini \
-  # rawsie \
-  # dropover \
-  # Magnet \

@@ -14,6 +14,12 @@ Install Applications via Script
 These Applications I install via Mac App Store or Browser
 
 * [JPEGMini](https://www.jpegmini.com/)
+* Capture One
+* Day One
+* jpeg mini
+* rawsie
+* dropover
+* Magnet
 
 ### Install [Oh my Zsh](https://ohmyz.sh/) for Terminal
 
