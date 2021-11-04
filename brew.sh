@@ -4,24 +4,53 @@ brew install \
   yarn \
   nvm \
   npm \
+  gh \
+  wget \
   node
 
 # Cask
 brew cask install \
+  # basic tools
+  1password \
+  moneymoney \
+  
+  # DEV Tools
   visual-studio-code \
-  phpstorm \
   tower \
+
+  # Browsers
   google-chrome \
+  microsoft-edge \
   firefox \
+  brave-browser \ 
+
+  # diverse tools
   iterm2 \
   adobe-creative-cloud \
+  dropbox \
   spotify \
   alfred \
-  istat-menus \
   transmit \
   mamp \
   notion \
   rightfont \
   evernote \
-  telegram \
-  slack
+  slack \
+  stats \
+  miro \
+  rightfont \
+  whatsapp \
+  zoom \
+  timeular \
+  todoist \
+  boxcryptor \
+  cleanmymac \
+  discord \
+  
+  # Not available via homebrew
+  # capture one \
+  # day one \
+  # jpeg mini \
+  # rawsie \
+  # dropover \
+  # Magnet \
