@@ -1,7 +1,7 @@
 # Core
 brew install \
   git \
-  yarn \
+  # yarn \
   nvm \
   npm \
   gh \
@@ -11,7 +11,7 @@ brew install \
 # Cask
 brew cask install \
   # basic tools
-  1password \
+  # 1password \
   moneymoney \
   
   # DEV Tools
@@ -19,31 +19,30 @@ brew cask install \
   tower \
 
   # Browsers
-  google-chrome \
+  # google-chrome \
   microsoft-edge \
   firefox \
   brave-browser \ 
 
   # diverse tools
-  iterm2 \
+  # iterm2 \
   adobe-creative-cloud \
-  dropbox \
-  spotify \
-  alfred \
+  # dropbox \
+  # spotify \
+  # alfred \
   transmit \
-  mamp \
+  # mamp \
   notion \
   rightfont \
   evernote \
   slack \
-  stats \
+  # stats \
   miro \
-  rightfont \
   whatsapp \
-  zoom \
+  # zoom \
   timeular \
   todoist \
-  boxcryptor \
-  cleanmymac \
-  discord \
+  # boxcryptor \
+  # cleanmymac \
+  # discord \
   
